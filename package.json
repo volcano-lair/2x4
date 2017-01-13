@@ -1,0 +1,19 @@
+{
+  "name": "2x4",
+  "version": "0.0.1",
+  "description": "A logging interface for library modules",
+  "main": "lib",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "John Manero <john.manero@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-rapid7": "^2.6.0",
+    "mocha": "^3.2.0"
+  }
+}
